@@ -1,0 +1,17 @@
+{% extends "productes/base.html" %}
+
+{% block content %}
+
+	<h2>Lista Carritos</h2>
+
+
+	<ul>
+{% for carrito in carrito_list %}
+    <li><a href="/carrito/{{carrito.id}}">{{carrito.nom}} </a></li>
+{% empty %}
+    <li>No articles yet.</li>
+{% endfor %}
+</ul>
+
+
+{% endblock %}
