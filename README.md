@@ -17,7 +17,6 @@ App funcionando en prueba
 
 Como cambiar contraseña del admin del backend
 ============
-1. Abrimos la shell del usuario con:
 1. python manage.py shell
 1. From django.contrib.auth.models import User
 1. user = User.objects.get(username="admin")
