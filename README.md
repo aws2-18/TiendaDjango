@@ -8,9 +8,9 @@ Te bajas el repositorio, activas el source, haces un python manage.py migrate, y
 
 Agradecimientos
 ============
-A nuestro profesor Enriz Mieza, por facilitarnos la base de la tienda.
+A nuestro profesor Enriz Mieza, por facilitarnos la base de la tienda y facilitarnos la información para subir el proyecto a heroku.
 [Link a su repositorio de github](https://github.com/emieza)
 
 App funcionando en prueba
 ============
-[Link a heroku](https://djangolluis.herokuapp.com/)
+[Link a heroku](https://premiumsport.herokuapp.com/)
