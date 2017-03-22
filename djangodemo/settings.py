@@ -25,7 +25,7 @@ SECRET_KEY = '27njfb=mu2bpvn*$-w790tn+&s8*_245k*dyv9ubdgb@nc7$)e'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['damp-atoll-80872.herokuapp.com']
+ALLOWED_HOSTS = ['premiumsport.herokuapp.com']
 
 
 # Application definition
